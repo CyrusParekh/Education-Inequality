@@ -8,8 +8,7 @@ This project uses two datasets. One is from EdGap.org (https://www.edgap.org/#5/
 
 The second data set is from the National Center of Education Statistics (https://nces.ed.gov/ccd/pubschuniv.asp) which contains basic identifying information for each school. The data set can be found here: (https://docs.google.com/spreadsheets/d/1Xs6eiF3KZqoHdLtPuzUUYPDzwToZEuVkX2mvE4iFROM/edit?usp=sharing)
 
-Data Preparation:
-This data set was prepared by 
+Data Preparation was done by
 
 1. Converting data types
 2. Filtering unnecessary data
